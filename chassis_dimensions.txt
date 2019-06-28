@@ -1,8 +1,11 @@
+chassis length								400
+chassis width								220
+axis holder front-rear wheel shaft distance 319
 axis holder front-rear hole distance		308
-axis holder near left-right hole distance	173
-axis holder adjacent hole distance		17.5
-middle axle holder adjacent hole distance	24.5
+axis holder near left-right hole distance	73
+axis holder adjacent hole distance			17.5
+middle axle holder adjacent hole distance	24
 axis holder motor holder edge distance		92.5
 axis holder middle axle holder distance		56.5
-wheel space x					6
-wheel space y					15-30
+wheel space x								6
+wheel space y								15-30
